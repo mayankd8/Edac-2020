@@ -1,0 +1,30 @@
+Hello mayank dwivedi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/bin/bash: wq: command not found
